@@ -34,5 +34,5 @@ Ao final deve se exibir uma mensagem:
 
 O desafio foi criando com a aplicação de entrada de danos dinâmica onde o usuário insere os dados do herói (quantidade de vitórias e de derrotas) utilizando o teclado.
 
-OBS IMPORTANTE: Para que o sistema funcione totalmente com a entrada de dados dinâmica é necessário instalar um pacode do NodeJS digitando o seguinte comando no terminal: 
+OBS IMPORTANTE: Para que o sistema funcione totalmente com a entrada de dados dinâmica é necessário instalar um pacote do NodeJS digitando o seguinte comando no terminal: 
 "npm install prompt-sync"
